@@ -115,8 +115,8 @@ The project generates several key visualizations:
 
 ## Project Structure
 ```
-├── Time_Series_Project_1.R          # Main R script
-├── Time_Series_Project_1.pdf        # Full project report
+├── S&P 500 ARIMA.R          # Main R script
+├── S&P 500 ARIMA.pdf        # Full project report
 └── README.md                        # This file
 ```
 
